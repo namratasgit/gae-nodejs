@@ -4,6 +4,6 @@
     "start": "node server.js"
   },
   "engines": {
-    "node": "10.x.x"
+    "node": "20.x.x"
   }
 }
