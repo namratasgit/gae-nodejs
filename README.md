@@ -12,7 +12,7 @@ ii. Define a request handling function:
 
 var handleRequest = function(request, response) {
   response.writeHead(200);
-  response.end("<h1>Technical Guftgu Welcomes You Using Google App Engine Standard</h1>");
+  response.end("<h1>I welcome You all to Cloud Scripting Using Google App Engine(PaaS) Standard</h1>");
 }
 Here, handleRequest is a function that will be invoked whenever an HTTP request is received. It sets the HTTP status code to 200 (OK) and sends an HTML response to the client.
 
